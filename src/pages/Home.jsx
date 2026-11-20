@@ -37,7 +37,7 @@ export default function Home() {
             </h2>
 
             <h2>
-              <span className="font-extrabold">Fullstack</span>{" "}
+              <span className="font-extrabold">Frontend</span>{" "}
               <span
                 className="text-white font-extrabold"
                 style={{ WebkitTextStroke: "1px #1A4B9F" }}
